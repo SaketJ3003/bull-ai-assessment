@@ -1,0 +1,35 @@
+Company: Test Company
+Sector: Internet & Catalogue Retail
+
+Annual Financials
+
+FY25A
+Sales: 20243
+Sales Growth: 67.1%
+EBITDA: 637
+EBITDA Margin: 3.1%
+Adjusted PAT: 527
+Adjusted EPS: 0.6
+
+FY26E
+Sales: 35020
+Sales Growth: 73.0%
+EBITDA: 1248
+EBITDA Margin: 3.6%
+Adjusted PAT: 927
+Adjusted EPS: 1.0
+
+FY27E
+Sales: 54632
+Sales Growth: 56.0%
+EBITDA: 3575
+EBITDA Margin: 6.5%
+Adjusted PAT: 2643
+Adjusted EPS: 2.7
+
+Business Summary:
+The company operates a technology-driven consumer internet business.
+
+Key Highlights:
+Revenue is expected to grow strongly over the forecast period.
+EBITDA margins are expected to improve.
